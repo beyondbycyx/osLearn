@@ -1,4 +1,4 @@
-# osLearn https://webdemo.myscript.com/
+# osLearn https://webdemo.myscript.com/ https://www.desmos.com
 
 
 # 1. 信息的表示和处理
