@@ -25,7 +25,7 @@
    
    1.5.1 无符号数编码：n位二进制, 0(0x00..0) ~ 2^n -1(0xff..f)
     
-   C^2_n
-    
+<math xmlns='http://www.w3.org/1998/Math/MathML'> <mi> B </mi> <mn> 2 </mn> <msub> <mrow> <mi> U </mi> </mrow> <mrow> <mi> w </mi> </mrow> </msub> <mfenced> <mrow> <mover> <mrow> <mi> x </mi> </mrow> <mrow> <mo> &#x2192; <!-- rightwards arrow --> </mo> </mrow> </mover> </mrow> </mfenced> <mo> = </mo> <munderover> <mrow> <mo> &#x2211; <!-- n-ary summation --> </mo> </mrow> <mrow> <mi> i </mi> <mo> = </mo> <mn> 0 </mn> </mrow> <mrow> <mi> w </mi> <mo> - </mo> <mn> 1 </mn> </mrow> </munderover> <msub> <mrow> <mi> x </mi> </mrow> <mrow> <mi> i </mi> </mrow> </msub> <msup> <mrow> <mn> 2 </mn> </mrow> <mrow> <mi> i </mi> </mrow> </msup> </math>
+
    1.5.2 
               
